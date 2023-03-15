@@ -10,7 +10,7 @@ a">arcgis.com</a>
 
 Data source for COVID infections by county: <a href="https://arcgis.com/sharing/rest/content/items/b860f2797f7f4da789cb6fccf6bd5bc7/data">arcgis.com</a>
 
-<iframe src="/home/adrian/Pulpit/GitHub_Public/Covid_19/Analisys Covid19.pdf" width="100% height=100%">PDF</iframe>
+<a href="/home/adrian/Pulpit/GitHub_Public/Covid_19/Analisys Covid19.pdf" class="image fit"><i class="fas fa-file-pdf"></i>PDF</a>
 
 2. Solution based on data from JSON file.
 

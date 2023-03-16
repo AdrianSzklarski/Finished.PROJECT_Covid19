@@ -9,8 +9,7 @@
         "new_active": "0",
         "new_positive": "10751",
         "new_cured": "10622",
-        "new_death": "12",
-        "actualdeath24hrs": "0"
+        "new_death": "12"
     },
     {
         "sno": "2",
@@ -22,8 +21,7 @@
         "new_active": "3",
         "new_positive": "2339098",
         "new_cured": "2324362",
-        "new_death": "1473",
-        "actualdeath24hrs": "0"
+        "new_death": "1473"
     },
     {
         "sno": "3",
@@ -35,8 +33,7 @@
         "new_active": "0",
         "new_positive": "66891",
         "new_cured": "66595",
-        "new_death": "528",
-        "actualdeath24hrs": "0"
+        "new_death": "528"
     },
     {
         "sno": "4",
@@ -48,8 +45,7 @@
         "new_active": "0",
         "new_positive": "746100",
         "new_cured": "738065",
-        "new_death": "9852",
-        "actualdeath24hrs": "0"
+        "new_death": "9852"
     },
     {
         "sno": "5",
@@ -61,8 +57,7 @@
         "new_active": "3",
         "new_positive": "851428",
         "new_cured": "839122",
-        "new_death": "12443",
-        "actualdeath24hrs": "0"
+        "new_death": "12443"
     },
     {
         "sno": "6",
@@ -74,8 +69,7 @@
         "new_active": "6",
         "new_positive": "99375",
         "new_cured": "98187",
-        "new_death": "1785",
-        "actualdeath24hrs": "0"
+        "new_death": "1785"
     },
     {
         "sno": "7",
@@ -87,8 +81,7 @@
         "new_active": "6",
         "new_positive": "1177806",
         "new_cured": "1163654",
-        "new_death": "14126",
-        "actualdeath24hrs": "0"
+        "new_death": "14126"
     },
     {
         "sno": "8",
@@ -100,8 +93,7 @@
         "new_active": "0",
         "new_positive": "11591",
         "new_cured": "17747",
-        "new_death": "4",
-        "actualdeath24hrs": "0"
+        "new_death": "4"
     },
     {
         "sno": "9",
@@ -113,8 +105,7 @@
         "new_active": "62",
         "new_positive": "2007718",
         "new_cured": "1981133",
-        "new_death": "25823",
-        "actualdeath24hrs": "0"
+        "new_death": "25823"
     },
     {
         "sno": "10",
@@ -126,8 +117,7 @@
         "new_active": "40",
         "new_positive": "259199",
         "new_cured": "255146",
-        "new_death": "2052",
-        "actualdeath24hrs": "0"
+        "new_death": "2052"
     },
     {
         "sno": "11",
@@ -139,8 +129,7 @@
         "new_active": "268",
         "new_positive": "1278074",
         "new_cured": "1266759",
-        "new_death": "10225",
-        "actualdeath24hrs": "0"
+        "new_death": "10225"
     },
     {
         "sno": "12",
@@ -152,8 +141,7 @@
         "new_active": "47",
         "new_positive": "1056803",
         "new_cured": "1046042",
-        "new_death": "11258",
-        "actualdeath24hrs": "0"
+        "new_death": "11258"
     },
     {
         "sno": "13",
@@ -165,8 +153,7 @@
         "new_active": "100",
         "new_positive": "312900",
         "new_cured": "308586",
-        "new_death": "1202",
-        "actualdeath24hrs": "0"
+        "new_death": "1202"
     },
     {
         "sno": "14",
@@ -178,8 +165,7 @@
         "new_active": "43",
         "new_positive": "479533",
         "new_cured": "474705",
-        "new_death": "4002",
-        "actualdeath24hrs": "0"
+        "new_death": "4002"
     },
     {
         "sno": "15",
@@ -191,7 +177,6 @@
         "new_active": "4",
         "new_positive": "442581",
         "new_cured": "437246",
-        "new_death": "3698",
-        "actualdeath24hrs": "0"
+        "new_death": "3698"
     }
 ]
